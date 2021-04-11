@@ -1,0 +1,9 @@
+package com.luv2code.constraints;
+
+public class ccc {
+
+	public static void main(String[] args) {
+		new bbb().abc();
+	}
+
+}

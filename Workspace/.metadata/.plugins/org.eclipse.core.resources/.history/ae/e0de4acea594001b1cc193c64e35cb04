@@ -1,0 +1,9 @@
+package com.luv2code.constraints;
+
+public interface aaa {
+	
+	public void abc () {
+		return "";
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.luv2code.constraints;
+
+public class bbb implements aaa {
+
+}
